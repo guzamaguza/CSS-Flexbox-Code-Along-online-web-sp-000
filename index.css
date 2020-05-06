@@ -10,7 +10,7 @@ header {
   width: 100%;
 }
 
-.main {
+main {
   display: flex;
   background-color: #FBFFF4;
   width: 100%;
